@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h2>Welcome to the ballon builder</h2>
+        <h3> I am in dev environment</h3>
       </header>
     </div>
   );
